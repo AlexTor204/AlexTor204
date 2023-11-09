@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlexTor204
 - 👀 I’m interested in the creation of aplications and web sites
 - 🌱 I’m currently learning HTML/CSS/JS
-- 💞️ I’m looking to collaborate on web disign
+- 💞️ I’m looking to collaborate on web design
 - 📫 How to reach me, if I was of you interest you can contact me on my personal Email -> alex90cet204@gmail.com
 
 <!---
